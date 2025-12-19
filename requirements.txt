@@ -1,0 +1,4 @@
+nubra_python_sdk
+pandas
+numpy
+matplotlib

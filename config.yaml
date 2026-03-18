@@ -1,0 +1,5 @@
+websocket:
+  reconnect_delay: 5
+
+market:
+  instrument_type: EQUITY
